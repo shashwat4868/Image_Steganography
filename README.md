@@ -4,4 +4,4 @@
 
 ### Methodology -
 1. Text Compression:
-* Huffman coding will be used for the purpose of minimization of tree nodes and leading to compression of text.
+** Huffman coding will be used for the purpose of minimization of tree nodes and leading to compression of text.
